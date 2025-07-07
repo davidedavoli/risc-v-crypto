@@ -20,7 +20,6 @@ The following branches are available:
 
 - `feature/constant-time`, containing the constant-time implementation of the scheme.
 - `feature/slh`, containing the *speculative* constant-time implementation protected with Jasmin's `protect` instruction (manual SLH protections). 
-- `feature/dfence`, containing the *speculative* constant-time implementation protected with the experimental `dfence` primitive. 
 - `feature/fence`, containing the *speculative* constant-time implementation protected with `fence` instructions. 
 
 
